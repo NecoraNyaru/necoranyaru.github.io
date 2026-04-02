@@ -16,7 +16,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{
+        },{id: "news-our-paper-on-software-entity-recognition-with-noise-robust-learning-was-accepted-to-ase-2023",
+          title: 'Our paper on software entity recognition with noise-robust learning was accepted to ASE...',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-bidirectional-grounding-of-llm-based-code-generation-was-accepted-to-the-first-round-of-icse-2025",
+          title: 'Our paper on bidirectional grounding of LLM-based code generation was accepted to the...',
+          description: "",
+          section: "News",},{id: "news-securechain-has-been-selected-for-nsf-s-national-ai-research-resource-nairr-pilot-nsf-news-purdue-news",
+          title: 'SecureChain has been selected for NSF’s National AI Research Resource (NAIRR) Pilot! NSF...',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
