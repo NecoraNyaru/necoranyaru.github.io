@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://necoranyaru.github.io/sitemap.xml
+Sitemap: https://akari.im/sitemap.xml
