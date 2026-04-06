@@ -25,6 +25,9 @@ ninja.data = [{
           section: "News",},{id: "news-securechain-has-been-selected-for-nsf-s-national-ai-research-resource-nairr-pilot-nsf-news-purdue-news",
           title: 'SecureChain has been selected for NSF’s National AI Research Resource (NAIRR) Pilot! NSF...',
           description: "",
+          section: "News",},{id: "news-our-paper-on-multi-agent-web-navigation-was-accepted-to-the-main-conference-of-acl-2026",
+          title: 'Our paper on multi-agent web navigation was accepted to the Main Conference of...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
