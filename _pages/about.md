@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student@Purdue CS
+subtitle: Ph.D. Student @ Purdue CS
 
 profile:
   align: right
