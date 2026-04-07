@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/assets/pdf/Yifeng_Di_CV.pdf";
+          },
         },{id: "news-our-paper-on-software-entity-recognition-with-noise-robust-learning-was-accepted-to-ase-2023",
           title: 'Our paper on software entity recognition with noise-robust learning was accepted to ASE...',
           description: "",
