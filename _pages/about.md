@@ -14,6 +14,7 @@ profile:
     <p>West Lafayette, IN 47907</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_preprints: true # includes a list of papers marked as "preprint={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
