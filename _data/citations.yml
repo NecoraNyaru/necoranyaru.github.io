@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-10'
 papers:
   ZSZD-cIAAAAJ:BqipwSGYUEgC:
     citations: 8
@@ -9,6 +9,10 @@ papers:
     citations: 25
     title: 'SOSum: a dataset of stack overflow post summaries'
     year: '2022'
+  ZSZD-cIAAAAJ:NaGl4SEjCO4C:
+    citations: 0
+    title: 'TRACER: A Semantic-Aware Framework for Fine-Grained Contamination Detection in Code LLMs'
+    year: '2026'
   ZSZD-cIAAAAJ:O3NaXMp0MMsC:
     citations: 1
     title: Method for video interaction and electronic device
