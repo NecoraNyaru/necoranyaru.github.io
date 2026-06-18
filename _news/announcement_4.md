@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-07-17 00:00:00-0400
+date: 2024-10-31 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper on software entity recognition with noise-robust learning was accepted to ASE 2023!
+Our paper on bidirectional grounding of LLM-based code generation was accepted to the first round of ICSE 2025!
