@@ -42,6 +42,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-multi-agent-web-navigation-was-accepted-to-the-main-conference-of-acl-2026",
           title: 'Our paper on multi-agent web navigation was accepted to the Main Conference of...',
           description: "",
+          section: "News",},{id: "news-our-paper-on-conditional-dependencies-and-their-security-impact-in-c-c-was-accepted-to-ase-2026",
+          title: 'Our paper on conditional dependencies and their security impact in C/C++ was accepted...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
