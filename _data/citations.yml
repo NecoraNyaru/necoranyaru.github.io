@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-08-19'
 papers:
   ZSZD-cIAAAAJ:BqipwSGYUEgC:
     citations: 11
     title: Enhancing code generation via bidirectional comment-level mutual grounding
     year: '2025'
   ZSZD-cIAAAAJ:GnPB-g6toBAC:
-    citations: 25
+    citations: 27
     title: 'SOSum: a dataset of stack overflow post summaries'
     year: '2022'
   ZSZD-cIAAAAJ:NaGl4SEjCO4C:
